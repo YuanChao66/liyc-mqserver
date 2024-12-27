@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57998792-5e7a-4183-ad47-9edde3c4f1b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Liyc\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\Liyc\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2q5ziHHVFFAGCOyiaXBmQPD3vVT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../message-queue" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35863873" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liyc.mqs" />
+      <recent name="com.liyc.mqs.mqserver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MemoryDataCenterTest.testRecovery">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataManagerTest.insertExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liyc-mqserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liyc.mqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liyc.mqs.mqserver" />
+      <option name="MAIN_CLASS_NAME" value="com.liyc.mqs.mqserver.DataManagerTest" />
+      <option name="METHOD_NAME" value="insertExchange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataManagerTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liyc-mqserver" />
+      <option name="PACKAGE_NAME" value="com.liyc.mqs.mqserver" />
+      <option name="MAIN_CLASS_NAME" value="com.liyc.mqs.mqserver.DataManagerTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryDataCenterTest.testExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liyc-mqserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liyc.mqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liyc.mqs.mqserver" />
+      <option name="MAIN_CLASS_NAME" value="com.liyc.mqs.mqserver.MemoryDataCenterTest" />
+      <option name="METHOD_NAME" value="testExchange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemoryDataCenterTest.testRecovery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liyc-mqserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liyc.mqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liyc.mqs.mqserver" />
+      <option name="MAIN_CLASS_NAME" value="com.liyc.mqs.mqserver.MemoryDataCenterTest" />
+      <option name="METHOD_NAME" value="testRecovery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageFileManagerTest.createQueueFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="liyc-mqserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liyc.mqs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liyc.mqs.mqserver" />
+      <option name="MAIN_CLASS_NAME" value="com.liyc.mqs.mqserver.MessageFileManagerTest" />
+      <option name="METHOD_NAME" value="createQueueFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="liyc-mqserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liyc.mqs.MqsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemoryDataCenterTest.testRecovery" />
+        <item itemvalue="JUnit.MemoryDataCenterTest.testExchange" />
+        <item itemvalue="JUnit.MessageFileManagerTest.createQueueFile" />
+        <item itemvalue="JUnit.DataManagerTest.insertExchange" />
+        <item itemvalue="JUnit.DataManagerTest.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57998792-5e7a-4183-ad47-9edde3c4f1b9" name="Default Changelist" comment="" />
+      <created>1733967352953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733967352953</updated>
+      <workItem from="1733967354588" duration="887000" />
+      <workItem from="1733968257649" duration="33866000" />
+      <workItem from="1734420271807" duration="7776000" />
+      <workItem from="1734510712278" duration="25942000" />
+      <workItem from="1734916686780" duration="54743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    driver-class-name: org.sqlite.JDBC
+    url: jdbc:sqlite:./data/meta.db
+    username:
+    password:
+  application:
+    name: 基于RabbitMQ的消息队列 # 项目名
+  output:
+    ansi:
+      enabled: ALWAYS # 控制台输出彩色日志
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
